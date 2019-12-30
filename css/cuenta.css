@@ -1,0 +1,24 @@
+
+a{
+	color: #fff;
+}
+
+.user-container{
+
+}
+.user-img img{
+	width: 100px;
+	height: 100px;
+}
+
+.container-course{
+	background-color: #261426;
+	opacity: .8;
+}
+.tab-content-course{
+	color: #fff;
+}
+
+.op{
+	border-color: #fff;
+}
